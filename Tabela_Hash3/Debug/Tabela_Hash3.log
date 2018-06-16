@@ -1,0 +1,6 @@
+﻿  Tabela_Hash3.cpp
+c:\users\qwerty\source\repos\tabela_hash3\tabela_hash3\tabela_hash3.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\qwerty\source\repos\tabela_hash3\tabela_hash3\tabela_hash3.cpp(304): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\qwerty\source\repos\tabela_hash3\tabela_hash3\tabela_hash3.cpp(304): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\qwerty\source\repos\tabela_hash3\tabela_hash3\tabela_hash3.cpp(222): warning C4715: 'buscaHash_EnderecoAberto': not all control paths return a value
+  Tabela_Hash3.vcxproj -> C:\Users\Qwerty\source\repos\Tabela_Hash3\Debug\Tabela_Hash3.exe
